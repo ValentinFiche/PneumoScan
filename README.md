@@ -1,4 +1,4 @@
-# Chest X-Ray
+# PneumoScan
 
 ## Description
 
