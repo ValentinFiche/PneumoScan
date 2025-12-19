@@ -6,6 +6,3 @@ model_v2.h5
 model_v2.keras
 best_model.keras
 knn_model.pkl
-env/
-__pycache__/
-*.pyc
